@@ -1,0 +1,19 @@
+.container{
+    max-width:450px;
+    background:white;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+body{
+    background:cadetblue;
+    margin:0;
+    padding:0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:1.3em;
+    line-height: 1.5em;
+    
+}
+h2{
+    text-align:center;
+}
